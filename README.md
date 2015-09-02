@@ -1,4 +1,4 @@
-# tdd-pokemon-fall
+# repo name: tdd-pokemon-fall
 
 ## Clinic overview
 In this clinic, we will go over:
